@@ -7,7 +7,7 @@ matplotlib.use('Agg')
 
 
 MIN_DRAWS = 500
-N_DRAWS = 6000
+N_DRAWS = 5000
 DRAW_INTERVAL = 50
 
 N_RUNS = 20

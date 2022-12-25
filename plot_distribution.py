@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 matplotlib.use('Agg')
 
-N_DRAWS = 6000
+N_DRAWS = 5000
 
 
 def main():

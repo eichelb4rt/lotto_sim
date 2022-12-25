@@ -6,7 +6,7 @@ import matplotlib
 matplotlib.use('Agg')
 
 
-N_DRAWS = 6000
+N_DRAWS = 5000
 DRAW_INTERVAL = 50
 HEIGHT = 0.05
 
